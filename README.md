@@ -1,5 +1,5 @@
 # SQLZOO_EXERCISES
-My answer to major exercises from SQLZOO.  Content from (http://sqlzoo.net/wiki/SQL_Tutorial).
+My answer to major exercises from SQLZOO.  Content from http://sqlzoo.net/wiki/SQL_Tutorial.
 
 Please feel free to use this solution.
 
